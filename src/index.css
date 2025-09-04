@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+.correct {
+  background-color: #d1fae5; /* Tailwind green-100 */
+  border: 2px solid #10b981; /* Tailwind green-500 */
+  box-shadow: 0 0 12px #10b981;
+}
+
+.incorrect {
+  background-color: #fee2e2; /* Tailwind red-100 */
+  border: 2px solid #ef4444; /* Tailwind red-500 */
+  box-shadow: 0 0 12px #ef4444;
+}

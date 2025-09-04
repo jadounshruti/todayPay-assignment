@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "correct": "Paris"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "correct": "Mars"
+  },
+  {
+    "question": "Who wrote 'Hamlet'?",
+    "options": ["Charles Dickens", "William Shakespeare", "J.K. Rowling", "Jane Austen"],
+    "correct": "William Shakespeare"
+  },
+  {
+    "question": "What is 9 + 10?",
+    "options": ["19", "20", "21", "18"],
+    "correct": "19"
+  },
+  {
+    "question": "Which is the largest ocean on Earth?",
+    "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+    "correct": "Pacific"
+  }
+]
